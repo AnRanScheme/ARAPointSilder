@@ -1,7 +1,7 @@
 
 # ARAPointSilder
-是一款类似于开关的Silder,具有点击响应,和滑动响应
-               
+是一款类似于开关的Silder,具有点击响应,和滑动响应,直接
+              自定义通过绘制来显示图片 
 我们可以通过各种属性来设置这个silder的样式: 
          
 ![这是列子](https://github.com/AnRanScheme/ARAPointSilder/raw/master/ARASlider/Untitled.gif)
