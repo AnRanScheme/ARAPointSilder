@@ -1,7 +1,7 @@
 
 # ARAPointSilder
-是一款类似于开关的Silder,具有点击响应,和滑动响应
-               
+是一款类似于开关的Silder,具有点击响应,和滑动响应,直接自定义通过绘制来显示图片 
+
 我们可以通过各种属性来设置这个silder的样式: 
          
 ![这是列子](https://github.com/AnRanScheme/ARAPointSilder/raw/master/ARASlider/Untitled.gif)
@@ -24,3 +24,5 @@
             silder.titleArray = ["面议","报价","你看你","傻不傻"]
             silder.addTarget(self, action: #selector(printNumber(sender:)), for: .valueChanged)
             view.addSubview(silder)
+
+ 如果有什么建议欢迎指导
