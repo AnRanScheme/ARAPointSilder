@@ -4,7 +4,7 @@
                
 我们可以通过各种属性来设置这个silder的样式: 
          
-![这是列子](https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片)
+![这是列子](https://github.com/AnRanScheme/ARAPointSilder/raw/master/ARASlider/Untitled.gif)
            
 因为只是一个简单的自定义控件在这里就不多说了
           
